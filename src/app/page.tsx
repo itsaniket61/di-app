@@ -17,7 +17,7 @@ const HomePage: React.FC = () => {
             Easily visualize your data with interactive charts and insightful
             analytics.
           </CardDescription>
-          <Link href='/page/dashboard'>
+          <Link href='./page/dashboard'>
             <Button>Get Started</Button>
           </Link>
         </Card>
